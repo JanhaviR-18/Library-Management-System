@@ -1,4 +1,4 @@
-Library Management System
+Library Management System :
 A simple command-line based Library Management System written in C++, designed for students and librarians to manage book records and borrowing activities.
 
  Features:
@@ -20,7 +20,7 @@ Technologies Used:
 - File Handling ('fstream')
 - Object-Oriented Programming (OOP)
 
-OOP Concepts Demonstrated
+OOP Concepts Demonstrated:
 - Classes and Objects
 - Inheritance ('Student' and 'Librarian' inherit from 'User')
 - Encapsulation
